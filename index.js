@@ -4,3 +4,6 @@ function greet() {
 
 greet();
 greet();
+
+add;
+
