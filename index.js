@@ -6,4 +6,5 @@ greet();
 greet();
 
 add;
+add(test3);
 
